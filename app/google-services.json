@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195594983071",
+    "project_id": "customfirebaseauthentica-e7ee0",
+    "storage_bucket": "customfirebaseauthentica-e7ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195594983071:android:bde9fd7adffa032602f4aa",
+        "android_client_info": {
+          "package_name": "com.shal.customfbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195594983071-2nsnm3bcobka7p9docn5tq3ejnjtogaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shal.customfbauth",
+            "certificate_hash": "5374aedea958b29f017bd076a4354708ca28c02d"
+          }
+        },
+        {
+          "client_id": "195594983071-uaenh7fhj0llj6o1b5cqgjctgkgqsun2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTcQby_paw_3ONrdpi3m8xoNTAU-x3v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195594983071-uaenh7fhj0llj6o1b5cqgjctgkgqsun2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
